@@ -23,7 +23,7 @@ function generatePassword() {
   var questionlowercase = confirm ("do you want to use lowercase?");
   var questionnumbers= confirm ("do you want to use numbers?");
   var questionsymbols = confirm ("do you want to use symbols?");
-  
+  // Add conditions
   if (questionuppercase) {
     possibleCharacters = possibleCharacters.concat(upperArray)
   }
