@@ -47,19 +47,7 @@ header {
   word-break: break-word;
   max-width: calc(100% - 40px);
 }
-.result_container #copy {
-  height: 40px;
-  width: 40px;
-  background-color: black;
-  color:white;
-  border: none;
-  cursor: default;
-  outline: none;
-}
-.result_container #copy:hover {
-  background-color: #2f4864;
-  color: white;
-}
+
 .card {
   background-color: hsl(0, 5%, 92%);
   border-radius: 5px;
