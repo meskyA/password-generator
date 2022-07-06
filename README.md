@@ -14,3 +14,6 @@ The selected criteria matche the generated password each time.
 <img width="1280" alt="Screen Shot 2022-07-05 at 5 20 43 PM" src="https://user-images.githubusercontent.com/107022225/177437530-786e233d-d095-4596-ac2c-e4452dc9f019.png">
 <img width="1280" alt="Screen Shot 2022-07-05 at 5 20 46 PM" src="https://user-images.githubusercontent.com/107022225/177437562-5ad43848-2f35-4ddf-b9c7-18e9a7385b8e.png">
 <img width="1280" alt="Screen Shot 2022-07-05 at 5 20 49 PM" src="https://user-images.githubusercontent.com/107022225/177437577-0952fb6f-4ebe-46f8-aecb-2bb1eb86ea79.png">
+
+https://meskya.github.io/password-generator/
+https://github.com/meskyA/password-generator

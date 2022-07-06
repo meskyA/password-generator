@@ -23,7 +23,7 @@ function generatePassword() {
   var questionlowercase = confirm ("do you want to use lowercase?");
   var questionnumbers= confirm ("do you want to use numbers?");
   var questionsymbols = confirm ("do you want to use symbols?");
-  // Add conditions
+  // Add conditions for possible characthers
   if (questionuppercase) {
     possibleCharacters = possibleCharacters.concat(upperArray)
   }
@@ -42,7 +42,6 @@ function generatePassword() {
     finalArray.push(possibleCharacters[random])
   }
   return finalArray.join("")
-  
 }
 // Add character arrays
  // Generating character codes https://www.asciitable.com
